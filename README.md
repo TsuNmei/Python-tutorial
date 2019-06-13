@@ -1,2 +1,3 @@
-# Python_Tutorial
-A easy python tutorial for beginner
+# Python-Tutorial
+This is a easy python tutorial
+Spread into three chapter
